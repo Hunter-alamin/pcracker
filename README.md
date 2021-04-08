@@ -16,16 +16,17 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/DevillHaunter/HAUNTERCRACKER
+git clone https://github.com/DevillHunter/pcracker
 
-cd HAUNTERCRACKER
+cd pcracker
 
-python2 pakhaunter.py
+python2 pakcracker.py
 ````
  # USERNAME &PASSWORD
 ````
-USERNAME : alaminKHAN
-PASSWORD : HAUNTERboy
+Username :  HAUNTERBOYALAMIN
+PASSWORD : kHAN
+
 ````
 # SCREENSHOTS
 ![](https://g.top4top.io/p_18753t5jj2.jpg)
